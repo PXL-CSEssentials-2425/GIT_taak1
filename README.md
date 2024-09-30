@@ -8,7 +8,7 @@ Gevraagd: maak een infopanel over kleuren.
 
 Requirements:
 
-| ID | Onderwerp | Beschrijving |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Onderwerp | Beschrijving |
 |---|---|---|
 | KLEUR-01 | Hoofdscherm | De achtergrondkleur van het scherm is licht grijs. Er is een TextBlock met de titel van de applicatie te zien (“Kleurenpsychologie”). |
 | KLEUR-02 | Afbeelding | Het hoofdscherm toont rechts boven de afbeelding van PXL. |
