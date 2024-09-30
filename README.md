@@ -13,16 +13,16 @@ Requirements:
 | KLEUR-01 | Hoofdscherm | De achtergrondkleur van het scherm is licht grijs. Er is een TextBlock met de titel van de applicatie te zien (“Kleurenpsychologie”). |
 | KLEUR-02 | Afbeelding | Het hoofdscherm toont rechts boven de afbeelding van PXL. |
 | KLEUR-03 | Hover effect | Wanneer de gebruiker over de afbeelding hovert met de muis, dan verandert de achtergrondkleur van het venster naar de kleur van de afbeelding.  |
-| KLEUR-04 | Afbeeldingsselectie | Als gebruiker kan ik op één van de afbeeldingen klikken om de code van de kleur te zien in een apart tekstveld.
--	Groen: #008000
--	Rood: #FF0000
--	Geel: #FFFF00
+| KLEUR-04 | Afbeeldingsselectie | Als gebruiker kan ik op één van de afbeeldingen klikken om de code van de kleur te zien in een apart tekstveld.<br/>
+-	Groen: #008000<br/>
+-	Rood: #FF0000<br/>
+-	Geel: #FFFF00<br/>
 -	Blauw: #0000FF
   |
-| KLEUR-05 | Informatie | Als gebruiker kan ik op één van de bloemafbeeldingen klikken om de informatie van de kleur te zien in een apart tekstveld:
--	Groen is de kleur van genezing
--	Rood is de kleur van warmte
--	Geel is de kleur van levenslust
+| KLEUR-05 | Informatie | Als gebruiker kan ik op één van de bloemafbeeldingen klikken om de informatie van de kleur te zien in een apart tekstveld:<br/>
+-	Groen is de kleur van genezing<br/>
+-	Rood is de kleur van warmte<br/>
+-	Geel is de kleur van levenslust<br/>
 -	Blauw is de kleur van intelligentie
   |
 
