@@ -1,8 +1,8 @@
 **PE2: GIT taak 1**
 
 Verwerk de volgende vereisten zoals in de "Project Vereisten" sessie.
-Maak voor elke vereiste een commit in je eigen repository. Voor je
-begint, maak je uiteraard een nieuwe repository aan voor het project.
+Maak voor elke vereiste een commit in je eigen repository. Voor elke commit vermeld je het vernoemde ID (KLEUR-01, enz.) in de commit message.
+Voor je begint, maak je uiteraard een nieuwe repository aan voor het project.
 
 Gevraagd: maak een infopanel over kleuren.
 
